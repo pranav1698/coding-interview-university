@@ -656,9 +656,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [4 ways to count bits in a byte (video)](https://youtu.be/Hzuzo9NJrlc)
     - [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
     - [How To Count The Number Of Set Bits In a 32 Bit Integer !Done](http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer)
-  - [ ] swap values:
+  - [x] swap values:
     - [Swap](https://bits.stephan-brumme.com/swap.html)
-  - [ ] absolute value:
+  - [x] absolute value:
     - [Absolute Integer](https://bits.stephan-brumme.com/absInteger.html)
 
 ## Trees
