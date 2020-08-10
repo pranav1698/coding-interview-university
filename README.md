@@ -842,7 +842,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - [ ] MIT(videos):
 
-  - [ ] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
+  - [x] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
   - [x][depth-first search](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
 
 - [ ] Skiena Lectures - great intro:
@@ -878,8 +878,8 @@ Graphs can be used to represent many problems in computer science, so this secti
   - [x] DFS with adjacency list (iterative with stack)
   - [x] DFS with adjacency matrix (recursive)
   - [x] DFS with adjacency matrix (iterative with stack)
-  - [ ] BFS with adjacency list
-  - [ ] BFS with adjacency matrix
+  - [x] BFS with adjacency list
+  - [x] BFS with adjacency matrix
   - [ ] single-source shortest path (Dijkstra)
   - [ ] minimum spanning tree
   - DFS-based algorithms (see Aduni videos above):
