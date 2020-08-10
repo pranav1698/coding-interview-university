@@ -843,7 +843,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 - [ ] MIT(videos):
 
   - [ ] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
-  - [ ] [Depth-First Search](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
+  - [x][depth-first search](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
 
 - [ ] Skiena Lectures - great intro:
 
@@ -871,13 +871,13 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - Full Coursera Course:
 
-  - [ ] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
+  - [x] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
 
 - I'll implement:
-  - [ ] DFS with adjacency list (recursive)
-  - [ ] DFS with adjacency list (iterative with stack)
-  - [ ] DFS with adjacency matrix (recursive)
-  - [ ] DFS with adjacency matrix (iterative with stack)
+  - [x] DFS with adjacency list (recursive)
+  - [x] DFS with adjacency list (iterative with stack)
+  - [x] DFS with adjacency matrix (recursive)
+  - [x] DFS with adjacency matrix (iterative with stack)
   - [ ] BFS with adjacency list
   - [ ] BFS with adjacency matrix
   - [ ] single-source shortest path (Dijkstra)
