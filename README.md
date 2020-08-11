@@ -840,10 +840,10 @@ Graphs can be used to represent many problems in computer science, so this secti
   - BFS and DFS - know their computational complexity, their tradeoffs, and how to implement them in real code
   - When asked a question, look for a graph-based solution first, then move on if none.
 
-- [ ] MIT(videos):
+- [x] MIT(videos):
 
   - [x] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
-  - [x][depth-first search](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
+  - [x] [Depth-First Search](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
 
 - [ ] Skiena Lectures - great intro:
 
@@ -883,10 +883,10 @@ Graphs can be used to represent many problems in computer science, so this secti
   - [ ] single-source shortest path (Dijkstra)
   - [ ] minimum spanning tree
   - DFS-based algorithms (see Aduni videos above):
-    - [ ] check for cycle (needed for topological sort, since we'll check for cycle before starting)
-    - [ ] topological sort
-    - [ ] count connected components in a graph
-    - [ ] list strongly connected components
+    - [x] check for cycle (needed for topological sort, since we'll check for cycle before starting)
+    - [x] topological sort
+    - [x] count connected components in a graph
+    - [x] list strongly connected components
     - [ ] check for bipartite graph
 
 ## Even More Knowledge
